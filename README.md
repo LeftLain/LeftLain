@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This will be my E-portfolio where I'll display interesting artifacts about my skills, experience and knowledge. :rocket:
+I'm Iain. This will be my E-portfolio where I'll display interesting artifacts about my skills, experience and knowledge. :rocket:
 
 #### 🔭 Projects and skills I’m currently working on
 ...
